@@ -1,20 +1,20 @@
 [
     {
-        "id": "9b1deb4d-3b7d-4bad-9bdd-2b0d7b3dcb6d",
-        "ismi": "Otabek",
-        "yoshi": 18,
-        "bo'yi": "170"
+        "id": "1234-1234-1234-1234-1234",
+        "ismi": "Baxram",
+        "yoshi": 14,
+        "bo'yi": "150"
     },
     {
-        "id": "3a6a552e-6c77-45cc-b9b5-abcb6482b00e",
-        "ismi": "Sunnatillo",
+        "id": "4567-c-4567-4567-4567",
+        "ismi": "Daniyor",
         "yoshi": 20,
-        "bo'yi": "180"
+        "bo'yi": "175"
     },
     {
-        "id": "b37382bf-4312-4f7e-a1bc-99c04578125b",
-        "ismi": "Sunnatillo",
-        "yoshi": 20,
+        "id": "85265-4312-85265-a1bc-4567",
+        "ismi": "Og'abek",
+        "yoshi": 19,
         "bo'yi": "175"
     }
 ]
